@@ -1,0 +1,27 @@
+{
+  "name": "headless-placeholder",
+  "version": "1.0.0",
+  "repository": "https://github.com/ShortTechDE/headless-placeholder.git",
+  "bugs": "https://github.com/ShortTechDE/headless-placeholder/issues",
+  "author": {
+    "name": "Tobias Möritz",
+    "email": "tobias@moeritz.cc",
+    "url": "https://moeritz.io"
+  },
+  "license": "MIT",
+  "engines": {
+    "ghost": ">=3.0.0",
+    "ghost-api": "v3"
+  },
+  "gpm": {
+    "type": "theme",
+    "categories": [
+      "Blog"
+    ]
+  },
+  "keywords": [
+    "ghost-theme",
+    "ghost",
+    "headless"
+  ]
+}
