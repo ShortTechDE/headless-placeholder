@@ -1,6 +1,6 @@
 {
   "name": "headless-placeholder",
-  "version": "1.1.1",
+  "version": "1.0.0",
   "repository": "https://github.com/ShortTechDE/headless-placeholder.git",
   "bugs": "https://github.com/ShortTechDE/headless-placeholder/issues",
   "author": {
@@ -23,8 +23,5 @@
     "ghost-theme",
     "ghost",
     "headless"
-  ],
-  "config": {
-    "redirect-to": "https://shorttech.de"
-  }
+  ]
 }
